@@ -1,0 +1,6 @@
+langchain-core
+langgraph
+langchain-groq
+fastapi
+pydantic
+uvicorn
